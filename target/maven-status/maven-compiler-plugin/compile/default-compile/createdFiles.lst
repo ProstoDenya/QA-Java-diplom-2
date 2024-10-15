@@ -1,0 +1,5 @@
+model\StellarUser.class
+order\OrderClient.class
+model\BaseReqSpecURI.class
+user\UserClient.class
+model\StellarOrder.class
